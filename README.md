@@ -1,4 +1,4 @@
-# flutter_app
+# Zodiac's compability
 
 My new Flutter application.
 
