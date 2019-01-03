@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
             new TextField(
               decoration: new InputDecoration(
-                hintText: "Имя первого человека",
+                hintText: "Знак зодиака первого человека",
                   contentPadding: const EdgeInsets.fromLTRB(15, 5, 15, 5)
               ),
               onChanged: (String str) {
@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
             new TextField(
               decoration: new InputDecoration(
-                hintText: "Имя второго человека",
+                hintText: "Знак зодиака второго человека",
                   contentPadding: const EdgeInsets.fromLTRB(15, 5, 15, 5)
               ),
               onChanged: (String str) {
